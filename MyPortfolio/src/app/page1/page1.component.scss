@@ -1,0 +1,85 @@
+#hhh{
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background: linear-gradient(aqua, black);
+}
+// nav{
+//     display: flex;
+//     justify-content: space-between;
+//     align-items: center;
+//     border: 1px solid black;
+//     padding: 15px;
+//     text-decoration: none;
+//     width: 60%;
+//     margin-left: 190px;
+//     background-color: aliceblue;
+    
+
+// }
+
+ul a li{
+    text-decoration: none;
+    display: inline;
+    padding: 25px;
+    
+}
+
+h2{
+    text-align: center;
+    font-family: 'Courier New', Courier, monospace ;
+    font-size:60px;
+}
+
+#pic{
+    width: 400px;
+    height: 500px;
+    border-radius: 20px;
+    margin: 25px;
+
+}
+
+#pic1{
+    width: 700px;
+    height: 500px;
+    border-radius: 20px;
+    padding: 5px;
+    margin: 2px;
+}
+#pic2{
+    width: 550px;
+    height: 550px;
+    border-radius: 20px;
+    padding: 4px 12px;
+    margin: 25px;
+}
+#pic3{
+    width: 300px;
+    height: 300px;
+    border-radius: 20px;
+    margin: 25px;
+}
+#pic4{
+    width: 600px;
+    height: 400px;
+    border-radius: 20px;
+    margin: 25px;
+}
+#pic5{
+    width: 600px;
+    height: 400px;
+    border-radius: 20px;
+    margin: 25px;
+}
+#pic6{
+    width: 600px;
+    height: 400px;
+    border-radius: 20px;
+    margin: 25px;
+}
+
+.pix{
+    display: flex;
+    justify-content: space-between;
+    padding: 25px;
+}

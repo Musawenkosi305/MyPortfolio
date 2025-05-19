@@ -1,0 +1,47 @@
+#hhh{
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background: linear-gradient(aqua, black);
+}
+h1{
+    font-family: 'Courier New', Courier, monospace ;
+    font-size:100px;
+    text-align: center;
+}
+#me{
+    display: flex;
+    justify-content: space-between;
+    padding: 25px;
+    
+}
+
+#pic{
+    width: 400px;
+    height: 500px;
+    border-radius: 20px;
+
+}
+
+button a{
+    margin: 5px ;
+    padding: 10px;
+    text-decoration: none;
+    justify-content: center;
+    display: flex;
+    align-self: center;
+    
+}
+
+button{
+    margin-left: 560px;
+    margin-top: 30px;
+    background: linear-gradient(aqua, black);
+}
+
+pre{
+    font-family: 'Courier New', Courier, monospace ;
+    font-size:15px;
+    font-weight: bold;
+    color: white;
+}
